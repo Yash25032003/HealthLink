@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="viXITKjodXo7rxldydlRxD2XqeGs-95EJd4NB3budFo" />
+    <title>
+         Privacy Policy - HealthLink    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+            
+    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/sitesprite.css">
+    
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118215074-1"></script>
+    <script> window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-118215074-1'); </script>
+
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+
+
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1625385854181933');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1625385854181933&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+<body>
+            <div class="loader-overlay">
+            <div class="loader">
+                <div class="loader-up-graphics"></div>
+                <div class="loader-down-graphics"></div>
+            </div>
+        </div>
+    
+    <div class="request-loader">
+        Loading <i class="dots-animation"></i>
+    </div>
+
+    <header class="s-header clearfix container s-section-sm">
+        <a href="index.html" class="s-logo clearfix">
+            <img src="img/kw-logo.png" alt="HealthLink">
+            <div class="s-slogan">
+                Improve health and well being through communication, collaboration, and compliance
+            </div>
+        </a>
+
+        <span class="s-header-hamburger visible-xs">
+                <span class="icon icon-s-menu-hamburger"></span>
+            </span>
+
+        <nav class="s-navbar clearfix">
+            <div class="s-user-links clearfix">
+                                    <div id="navbar-user-not-logged-in" class="clearfix">
+                        <a href="join" class="btn">Join us</a>
+                        <a href="login" class="btn btn-gray">Login</a>
+                    </div>
+                                            </div>
+            <ul class="s-menu clearfix">
+                                    <li class="s-dropdown blue">
+                        <a href="index.html" class="btn btn-lg">Health Zone</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                                            <li><a href="education@page=1">Education</a></li>
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown blue">
+                        <a href="social-network" class="btn btn-lg">Social Network</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown ">
+                        <a href="podcast" class="btn btn-lg">Podcast</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown green">
+                        <a href="about" class="btn btn-lg">About Us</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown purple">
+                        <a href="index.html" class="btn btn-lg">Support</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="help-center">Help center</a></li>
+                                                            <li><a href="terms">Terms Of Service</a></li>
+                                                            <li><a href="privacy">Privacy Policy</a></li>
+                                                            <li><a href="contact">Contact us</a></li>
+                                                    </ul>
+                    </li>
+                            </ul>
+        </nav>
+    </header>
+    <section class="fluid-container s-section s-page-banner faq-section-banner">
+        <h1 class="title ">Privacy Policy</h1>
+        <h4 class="subtitle">What you need to know</h4>
+    </section>
+
+    <section class="container mt mb faq-pages-content">
+        <h2>ONLINE PRIVACY POLICY AGREEMENT</h2><p>HealthLink LLC, (HealthLink), is committed to keeping any and all personal information collected of thoseindividuals that visit our website and make use of our online facilities and services accurate, confidential,secure and private. Our privacy policy has been designed and created to ensure those affiliated withHealthLink LLC of our commitment and realization of our obligation not only to meet but to exceed mostexisting privacy standards.</p><p><b><i>THEREFORE</i></b>, this Privacy Policy Agreement shall apply to HealthLink LLC, and thus it shall govern anyand all data collection and usage thereof. Through the use of <a href="http://www.healthlink.com">healthlink.com</a> you are hereinconsenting to the following data procedures expressed within this agreement.</p><h3>Collection of Information</h3><p>This website collects various types of information, such as:</p><ul>  <li>Voluntarily provided information which may include your name, address, email address, billing, and/or credit card information etc., which may be used when you purchase products and/or servicesand to deliver the services you have requested.</li>  <li>Information automatically collected when visiting our website, which may include cookies, thirdparty tracking technologies and server logs.Please rest assured that this site shall only collect personal information that you knowingly andwillingly provide by way of surveys, completed membership forms, and emails. It is the intent of thissite to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.</li></ul><p><span></span></p><p>HealthLink LLC may have the occasion to collect anonymous demographic information, such as age,gender, and race.We may also gatherinformation about the type of browser you are using, IP address or type of operating system to assist usin providing and maintaining superior quality service.It is highly recommended and suggested that you review the privacy policies and statements of anywebsite you choose to use or frequent as a means to better understand the way in which other websitesgarner, make use of and share information collected.</p><h3>Use of Information Collected</h3><p>HealthLink LLC may collect and may make use of personal information to assist in the operation of ourwebsite and to ensure delivery of the services you need and request. At times, we may find it necessaryto use personally identifiable information as a means to keep you informed of other possible productsand/or services that may be available to you from http://www.healthlink.com. HealthLink LLC may also bein contact with you with regards to completing surveys and/or research questionnaires related to youropinion of current or potential future services that may be offered.</p><p>HealthLink LLC may deem it necessary to follow websites and/or pages that our users may frequent in aneffort to gleam what types of services and/or products may be the most popular to customers or thegeneral public.</p><p>HealthLink LLC may disclose your personal information, without prior notice to you, only if required todo so in accordance with applicable laws and/or in a good faith belief that such action is deemednecessary or is required in an effort to:</p><ul>  <li>Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with anyprocess which may be served upon HealthLink LLC and/or our website;</li>  <li>Maintain, safeguard and/or preserve all the rights and/or property of HealthLink LLC; and</li>  <li>Perform under demanding conditions in an effort to safeguard the personal safety of uhealthlinknknknknknk<a href="http://www.healthlinknknknk.com">http:he.lthlknkirwell.com</a> and/or the general public.</li></ul><h3>Children Under Age of 13</He>lthLKnkirWell LLC does not knowingly collect personal identifiable information from children under the ageof thirteen (13) without verifiable parental consent. If it is determined that such information has beeninadvertently collected on anyone under the age of thirteen (13), we shall immediately take thenecessary steps to ensure that such information is deleted from our system's database. Anyone under theage of thirteen (13) must seek and obtain parent or guardian permission to use this website.</p><h3>Unsubscribe or Opt-Out</h3><p>All users and/or visitors to our website have the option to discontinue receiving communication from usand/or reserve the right to discontinue receiving communications by way of email or newsletters. Todiscontinue or unsubscribe to our website please send an email that you wish to unsubscribe tosuhealthlinkirwell.com. If you wish to unsubscribe or opt-out from any third party websites, you mustgo to that specific website to unsubscribe and/or opt-out.</p><h3>Links to Other Web Sites</h3><p>Our website does contain links to affiliate and other websHealthLinkirWell LLC does not claim nor acceptresponsibility for any privacy policies, practices and/or procedures of other such websites. Therefore,we encourage all users and visitors to be aware when they leave our website and to read the privacystatements of each and every website that collects personally identifiable information. Theaforementioned Privacy Policy Agreement applies only and solely to the information collected by ourwebsite.</p><h3>Security</HealthLinkirWell LLC shall endeavor and shall take every precaution to maintain adequate physical, proceduraland technical security with respect to our offices and information storage facilities so as to prevent anyloss, misuse, unauthorized access, disclosure or modification of the user's personal information underour control.The company also uses Secure Socket Layer (SSL) for authentication and private communications in aneffort to build users' trust and confidence in the internet and website use by providing simple and secureaccess and communication of credit card and personal information. In addiHealthLinkirWell LLC is a</p><p>licensee of TRUSTe. The website is also secured by VeriSign.</p><h3>Changes to Privacy Policy Agreement</HealthLinkirWell LLC reserves the right to update and/or change the terms of our privacy policy, and as suchwe will post those change to our website homepage at http:healthlinkirwell.com, so that our usersand/or visitors are always aware of the type of information we collect, how it will be used, and underwhat circumstances, if any, we may disclose such information. If at any point inHealthLinkirWell LLCdecides to make use of any personally identifiable information on file, in a manner vastly different fromthat which was stated when this information was initially collected, the user or users shall be promptlynotified by email. Users at that time shall have the option as to whether or not to permit the use of theirinformation in this separate manner.</p><h3>Acceptance of Terms</h3><p>Through the use of this website, you are hereby accepting the terms and conditions stipulated within theaforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions,then you should refrain from further use of our sites. In addition, your continued use of our websitefollowing the posting of any updates or changes to our terms and conditions shall mean that you are inagreement and acceptance of such changes.</p><h3>How to Contact Us</h3><p>If you have any questions or concerns regarding the Privacy Policy Agreement related to our website,please feel free to contact us at the following email address: <a href="mailto:suhealthlinkirwell.com">suhealthlinkirwell.com</a>.</p>
+    </section>
+
+    <footer class="s-footer fluid-container s-section">
+        <nav class="container s-footer-menu">
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Health Zone</a>
+                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                        <li><a href="education@page=1">Education</a></li>
+                                    </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="social-network">Social Network</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="podcast">Podcast</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="about">About Us</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Support</a>
+                                            <li><a href="help-center">Help center</a></li>
+                                        <li><a href="terms">Terms Of Service</a></li>
+                                        <li><a href="privacy">Privacy Policy</a></li>
+                                        <li><a href="contact">Contact us</a></li>
+                                    </ul>
+                    </nav>
+        <div class="container">
+            <a href="index.html" class="s-footer-menu-logo hidden-xs">
+                <span class="icon icon-kw-footer-logo"></span>
+            </a>
+
+            <div class="rights-reserved hidden-xs">
+                Copyright © 2018 HealthLink, Inc. All Rights Reserved
+            </div>
+
+            <div class="rights-reserved visible-xs text-center">
+                © HealthLink 2018
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="assets/js/minified/site-common.min.js"></script>
+    <script src="assets/js/minified/site.min.js"></script>
+</body>
+</html>

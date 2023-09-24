@@ -1,0 +1,1152 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="viXITKjodXo7rxldydlRxD2XqeGs-95EJd4NB3budFo" />
+    <title>
+        Online Health Calculators for Risk and Prevention | HealthLink    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+        <meta name="description" content="Find online health calculators including BMI, basal metabolic rate, lean body mass, body fat percentage, daily recommended fluid intake and more"/>
+    
+    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/sitesprite.css">
+    
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118215074-1"></script>
+    <script> window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-118215074-1'); </script>
+
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+
+
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1625385854181933');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1625385854181933&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+<body>
+            <div class="loader-overlay">
+            <div class="loader">
+                <div class="loader-up-graphics"></div>
+                <div class="loader-down-graphics"></div>
+            </div>
+        </div>
+    
+    <div class="request-loader">
+        Loading <i class="dots-animation"></i>
+    </div>
+
+    <header class="s-header clearfix container s-section-sm">
+        <a href="index.html" class="s-logo clearfix">
+            <img src="img/kw-logo.png" alt="HealthLink">
+            <div class="s-slogan">
+                Improve health and well being through communication, collaboration, and compliance
+            </div>
+        </a>
+
+        <span class="s-header-hamburger visible-xs">
+                <span class="icon icon-s-menu-hamburger"></span>
+            </span>
+
+        <nav class="s-navbar clearfix">
+            <div class="s-user-links clearfix">
+                                    <div id="navbar-user-not-logged-in" class="clearfix">
+                        <a href="join" class="btn">Join us</a>
+                        <a href="login" class="btn btn-gray">Login</a>
+                    </div>
+                                            </div>
+            <ul class="s-menu clearfix">
+                                    <li class="s-dropdown blue">
+                        <a href="index.html" class="btn btn-lg">Health Zone</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                                            <li><a href="education@page=1">Education</a></li>
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown blue">
+                        <a href="social-network" class="btn btn-lg">Social Network</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown ">
+                        <a href="podcast" class="btn btn-lg">Podcast</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown green">
+                        <a href="about" class="btn btn-lg">About Us</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown purple">
+                        <a href="index.html" class="btn btn-lg">Support</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="help-center">Help center</a></li>
+                                                            <li><a href="terms">Terms Of Service</a></li>
+                                                            <li><a href="privacy">Privacy Policy</a></li>
+                                                            <li><a href="contact">Contact us</a></li>
+                                                    </ul>
+                    </li>
+                            </ul>
+        </nav>
+    </header>
+    <section class="fluid-container s-section s-page-banner calc-page-banner">
+        <h1 class="title ">Use Online Health Calculators to Jump Start Your Health and Wellness Goals</h1>
+    </section>
+
+    <section class="fluid-container s-section bg-light-gray calc-intro">
+        <div class="box calc-intro-row clear-padding-xs">
+            <div class="calc-intro-item">
+                <span class="icon icon-с-understand"></span>
+                <h4 class="title font18">Understand</h4>
+                <p class="text">
+                    More Americans are familiarizing themselves with health and wellness buzzwords such as BMI, basal metabolic rate, and body fat percentage. Unfortunately many may not really understand what they mean or how they can help achieve a healthier and happier life.
+                </p>
+            </div>
+            <div class="calc-intro-item">
+                <span class="icon icon-с-magnifier"></span>
+                <h4 class="title font18">Monitor</h4>
+                <p class="text">
+                    Online Health Calculators are simplified and provide an excellent baseline for individuals that can be monitored and recalculated over time to measure progress towards desired health and wellness goals.
+                </p>
+            </div>
+            <div class="calc-intro-item">
+                <span class="icon icon-с-discuss"></span>
+                <h4 class="title font18">Discuss</h4>
+                <p class="text">
+                    A Health check calculator is not a substitute for doctors’ instructions and testing, but a means of determining useful information about your current health status. These scores should be part of the conversation held during scheduled preventive health visits.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="fluid-container s-section bg-blue mb calc-manager-wrapper">
+        <h2 class="mb-sm text-white text-center font38">Choose Your Health Check Calculator</h2>
+
+        <div class="calc-manager box padded-aside">
+            <select class="form-control"></select>
+        </div>
+
+    </section>
+
+
+
+    <section class="calc-entity-wrapper container mb" id="bmi">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Body Mass Index</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg btn-toggle active calc_control_sex_male">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate your bmi</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">empty</span>
+						<br>
+						<div class="calc-text-result"></div>
+					</p>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">How BMI (Body Mass Index) Influences Your Health</h4>
+						<p>
+							BMI or Body Mass Index has been used as a basic health and fitness calculator for screening measure of body fat and obesity in adults 20 years and older. As BMI increases risks for certain diseases increase along with it. These diseases include heart disease, certain types of cancer, type 2 diabetes, high blood pressure, high cholesterol, sleep disorders, and arthritis.
+						</p>
+					</div>
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="bmr">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h2 class="calc-title font18">Basal Metabolic Rate Health and Fitness Calculator</h2>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+
+				<label class="title toggle-title">CURRENT ACTIVITY LEVEL</label>
+				<div class="btn-group calc-btn-group calc-activity-level" data-toggle="buttons">
+					<label class="btn btn-lg active btn-toggle" data-value="sedentary">
+						<input type="radio"> Sedentary
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="light">
+						<input type="radio"> Light
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="moderate">
+						<input type="radio"> Moderate
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="active">
+						<input type="radio"> Active
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate BMR</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">0</span>
+						<br>
+						<div class="calc-text-result">
+							BMR is affected by age, genetics, gender, body fat percentage, and <a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals#" class="activity-level-popover">current activity level</a>. More active people will have a higher BMR and BMR decreases by 5% every 10 years after age 20. It is important to know your basal metabolic rate because in order to lose weight you have to consume calories lower than your overall needs. Believe it or not, muscle burns three times more energy than fat, so when your goal is to lose weight, you do not want to lose muscle. 
+						</div>
+					</p>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">Basal Metabolic Rate</h4>
+						<p>Basal metabolic rate is the number of calories that you need each day to stay alive. In other words it is a calculation of the number of calories required to keep the body functioning at rest. Depending on your activity level you will need additional calories daily to maintain bodily functions. BMR affects the rate that calories are burned and whether you maintain, lose, or gain weight.</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="cnl">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Daily calories needed to lose 1 pound per week</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+				<label class="title toggle-title">CURRENT ACTIVITY LEVEL</label>
+				<div class="btn-group calc-btn-group calc-activity-level" data-toggle="buttons">
+					<label class="btn btn-lg active btn-toggle" data-value="sedentary">
+						<input type="radio"> Sedentary
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="light">
+						<input type="radio"> Light
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="moderate">
+						<input type="radio"> Moderate
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="active">
+						<input type="radio"> Active
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate calories</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">0</span>
+						<br>
+						<div class="calc-text-result">
+							One pound is equal to 3500 calories so in order to lose a pound a week you must reduce your daily caloric intake by 500 calories. You can also lose weight by burning more calories per day through increased activity. People who are interested in body building wish to add lean muscle mass. A pound per week can be added by increasing daily caloric intake by 500 calories.
+						</div>
+					</p>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">Calculating Basal Metabolic Rate (BMR) to Jumpstart Weight Loss</h4>
+						<p>Basal metabolic rate can be a very helpful tool in achieving your weight loss goals and maintaining a healthy weight. <a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals#" class="activity-level-popover">Activity level</a> will BMR so the more active, the higher your BMR will be</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="cng">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h2 class="calc-title font18">Daily calories needed to gain 1 pound per week</h2>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+				<label class="title toggle-title">CURRENT ACTIVITY LEVEL</label>
+				<div class="btn-group calc-btn-group calc-activity-level" data-toggle="buttons">
+					<label class="btn btn-lg active btn-toggle" data-value="sedentary">
+						<input type="radio"> Sedentary
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="light">
+						<input type="radio"> Light
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="moderate">
+						<input type="radio"> Moderate
+					</label>
+					<label class="btn btn-lg btn-toggle" data-value="active">
+						<input type="radio"> Active
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate calories</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">12831.2</span>
+						<br>
+						<div class="calc-text-result">
+							One pound is equal to 3500 calories so in order to lose a pound a week you must reduce your daily caloric intake by 500 calories. You can also lose weight by burning more calories per day through increased activity. People who are interested in body building wish to add lean muscle mass. A pound per week can be added by increasing daily caloric intake by 500 calories.
+						</div>
+					</p>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">For body builders who wish to add lean muscle mass it is equally important to understand how your caloric intake impacts the ability to meet your lifestyle goals. You can better position yourself to make the gains you desire and don’t forget the more active you are, the more calories you will need to consume. </p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="bfp">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Body fat percentage</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+					<div class="col-md-6 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-6 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Waist</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_waist">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-6 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Hip</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_hip male-disabled">
+								centimeters
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-6 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Neck</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_neck">
+								centimeters
+							</div>							
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Waist</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_waist_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Hip</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_hip_inches male-disabled">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Neck</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_neck_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate body fat percentage</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">12831.2</span> <span class="calc-body-measurement">%</span>
+					</p>
+					<div class="calc-text-result"></div>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">The Skinny about Body Fat Percentage</h4>
+						<p>Body fat percentage is the portion of your body that is composed of fat, or that portion that is not lean body mass. The purpose of body fat, also known as adipose tissue, is to serve as a storage form of energy for the body and protection for vital organs. A portion of that fat, essential fat, is necessary for life and is found around the brain, spinal cord, bone marrow, and organs.</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="lbm">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Lean Body Mass</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<!-- <div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div> -->
+
+				<div class="row metric-controls">
+					<!-- <div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div> -->
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title"><abbr title="Body Fat Percentage">BFP</abbr></label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_bfp">
+								%
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<!-- <div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Age</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_age">
+								years
+							</div>							
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div> -->
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title"><abbr title="Body Fat Percentage">BFP</abbr></label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_imperial_bfp">
+								%
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate Lean Body Mass</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your pounds result: <span class="calc-digit-result-pounds calc-digit-result">0</span> <span class="calc-body-measurement">pounds</span>
+					</p>
+					<p>
+						Your percent result: <span class="calc-digit-result-percents calc-digit-result">0</span> <span class="calc-body-measurement">%</span>
+					</p>
+					<div class="calc-text-result">
+						So how lean are you? Are you lean and mean, meaning that your lean body mass is in the healthy range of 80 to 90% for men and 70 to 80% for women? Or are you lean and not so mean, meaning that your lean body mass falls outside of these ranges? Do not fret if you are not lean and mean because LBM can be increased through resistance training and healthy diet and body fat can be reduced by the same activities. Speak to your healthcare provider for advice about health and wellness strategies.
+					</div>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">Lean and Mean, What Does This Really Say About You?</h4>
+						<p>Lean body mass (LBM) is a calculation of the amount of weight you carry on your body that is not fat. It is the combined weight of your muscles, bones, connective tissues, and organs. Typically 60 to 90% of your total body weight is lean body mass, meaning a total of 10 to 40% of total body mass is fat. Lean body mass does include some fat, about 3% in men and 13% in women, which is found around the brain, spinal cord, bone marrow, and organs. This fat is known as essential fat and is higher in women due to sexual characteristics related to child bearing.</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="drfi">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Daily recommended fluid intake</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls calc-body-drfi">
+				<div class="row metric-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_weight">
+								kilograms
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Weight</label>
+							<div class="group-inputs">
+								<input type="number" class="form-control calc_control_imperial_weight">
+								pounds
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate fluid intake</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">12831.2</span> <span class="calc-body-measurement">oz</span>
+					</p>
+					<div class="calc-text-result">
+						There are factors that increase your DRFI. They include exercise, hot and humid environmental conditions, your current health condition, pregnancy, and breast feeding. Health conditions that increase your daily recommended fluid intake are fever, vomiting, and diarrhea. It is important to understand there are also health conditions that may require you to limit daily fluid intake. These include congestive heart failure, kidney disease, liver disease, and swelling in your arms, legs, or abdomen. Speak to your healthcare provider for advice about health and wellness strategies.
+					</div>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 clas="font18">Are You Drinking Enough Water?</h4>
+						<p>Daily recommended fluid intake (DRFI) is the amount of fluid needed each day to provide for your body&#8217;s needs. Believe it or not, the human body is composed of over 60% water making this essential fluid the body&#8217;s principle chemical component. Water performs such functions as flushing out toxins, transporting nutrients, and moistening airway. In a typical American diet we get 80% of the water we need from what we drink. The other 20% comes from the foods we eat. Several fruits and vegetables are incredibly over 80 to 90% water.</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    <section class="calc-entity-wrapper container mb" id="ibw">
+	<div class="calc-entity">
+		<div class="calc-header">
+			<h3 class="calc-title font18">Ideal body weight</h3>
+
+			<div class="calc-header-controls">
+				<span class="calc-header-control imperial">Imperial</span>
+				<span class="calc-header-control metric">Metric</span>
+			</div>
+		</div>
+		<div class="calc-body">
+			<form class="calc-body-half calc-body-controls">
+				<div class="btn-group calc-btn-group" data-toggle="buttons">
+					<label class="btn btn-lg active calc_control_sex_male btn-toggle">
+						<input type="radio"> Male
+					</label>
+					<label class="btn btn-lg btn-toggle">
+						<input type="radio"> Female
+					</label>
+				</div>
+
+				<div class="row metric-controls">
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<input class="form-control calc_control_metric_height">
+								centimeters
+							</div>							
+						</div>
+					</div>
+				</div>
+
+				<div class="row imperial-controls">
+
+					<div class="col-md-12 calc-body-controls-inline">
+						<div class="group">
+							<label class="title">Height</label>
+							<div class="group-inputs">
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_feets">
+									feet
+								</div>								
+								<div class="group-inputs">
+									<input type="number" class="form-control calc_control_imperial_height_inches">
+									inches
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<button class="btn btn-lg btn-blue btn-block calculate-btn">Calculate your IBW</button>
+			</form>
+			<div class="calc-body-half">
+				<div class="calc-result">
+					<p>Results</p>
+					<p>
+						Your result: <span class="calc-digit-result">12831.2</span> <span class="calc-body-measurement">pounds</span>
+					</p>
+					<div class="calc-text-result">
+						Your build affects your ideal body weight so if you have a small frame your IBW will be at the lower end of the range and for a large frame it is at the higher end. IBW can be difficult to achieve so it is best to set incremental goals that are more attainable and sustainable. A good start is to work towards losing 10% of your body weight if your goal is weight loss. Speak to your healthcare provider for advice about health and wellness strategies.
+					</div>
+				</div>
+				<div class="calc-descr hidden">
+					<div class="calc-descr-page">
+						<h4 class="font18">What Is Your Ideal Body Weight?</h4>
+						<p>Ideal body weight (IBW) is the suggested weight range for your height, gender, and age. This weight range should be associated with the lowest risk of you developing and dying from a disease related to overweightness and obesity.  Your ideal body weight is therefore important for overall health and well-being and helps prevent and control many diseases.</p>
+					</div>
+
+					<div class="calc-descr-pagination">
+						<span class="action backward disabled"></span>
+						<span class="action forward"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+    <div class="s-popover s-popover-up calc-popover">
+        <div class="half">
+            <h5 class="title text-bold">Activity level</h5>
+            Sedentary (little or no exercise)	<br>
+            Lightly active (exercise 1-3 days per week)	<br>
+            Moderately active (exercise 3-5 days per week)	<br>
+            Very active (exercise 6-7 days per week)<br>
+        </div>
+        <div class="half bg-light-gray">
+            <h5 class="title text-bold">Total daily energy expenditure</h5>
+            1.2 x BMR <br>
+            1.375 x BMR <br>
+            1.55 x BMR <br>
+            1.725 x BMR <br>
+        </div>
+    </div>
+
+    <footer class="s-footer fluid-container s-section">
+        <nav class="container s-footer-menu">
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Health Zone</a>
+                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                        <li><a href="education@page=1">Education</a></li>
+                                    </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="social-network">Social Network</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="podcast">Podcast</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="about">About Us</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Support</a>
+                                            <li><a href="help-center">Help center</a></li>
+                                        <li><a href="terms">Terms Of Service</a></li>
+                                        <li><a href="privacy">Privacy Policy</a></li>
+                                        <li><a href="contact">Contact us</a></li>
+                                    </ul>
+                    </nav>
+        <div class="container">
+            <a href="index.html" class="s-footer-menu-logo hidden-xs">
+                <span class="icon icon-kw-footer-logo"></span>
+            </a>
+
+            <div class="rights-reserved hidden-xs">
+                Copyright © 2018 HealthLink, Inc. All Rights Reserved
+            </div>
+
+            <div class="rights-reserved visible-xs text-center">
+                © HealthLink 2018
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+        <script src="assets/js/minified/site-common.min.js"></script>
+    <script src="assets/js/minified/site.min.js"></script>
+
+    <script src="assets/js/minified/calculators.min.js"></script>
+</body>
+</html>

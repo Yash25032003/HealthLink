@@ -1,0 +1,342 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.snsprite-add {
+  background-image: url(sn-sprite.png);
+  background-position: -80px -34px;
+  width: 17px;
+  height: 17px;
+}
+.snsprite-birthday {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -91px;
+  width: 15px;
+  height: 17px;
+}
+.snsprite-care {
+  background-image: url(sn-sprite.png);
+  background-position: -41px -40px;
+  width: 20px;
+  height: 16px;
+}
+.snsprite-care:hover,
+.active.snsprite-care,
+.active .snsprite-care,
+.btn:hover .snsprite-care {
+  background-image: url(sn-sprite.png);
+  background-position: -21px -40px;
+  width: 20px;
+  height: 16px;
+}
+.snsprite-color_picker_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -125px -26px;
+  width: 15px;
+  height: 12px;
+}
+.snsprite-color_picker_new_post:hover,
+.active.snsprite-color_picker_new_post,
+.active .snsprite-color_picker_new_post,
+.btn:hover .snsprite-color_picker_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -125px -14px;
+  width: 15px;
+  height: 12px;
+}
+.snsprite-color_picker_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -96px -108px;
+  width: 15px;
+  height: 14px;
+}
+.snsprite-color_picker_reply:hover,
+.active.snsprite-color_picker_reply,
+.active .snsprite-color_picker_reply,
+.btn:hover .snsprite-color_picker_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -125px 0px;
+  width: 15px;
+  height: 14px;
+}
+.snsprite-condition {
+  background-image: url(sn-sprite.png);
+  background-position: -110px -32px;
+  width: 14px;
+  height: 17px;
+}
+.snsprite-delete {
+  background-image: url(sn-sprite.png);
+  background-position: -62px -18px;
+  width: 17px;
+  height: 18px;
+}
+.snsprite-delete:hover,
+.active.snsprite-delete,
+.active .snsprite-delete,
+.btn:hover .snsprite-delete {
+  background-image: url(sn-sprite.png);
+  background-position: -62px -36px;
+  width: 17px;
+  height: 18px;
+}
+.snsprite-email {
+  background-image: url(sn-sprite.png);
+  background-position: -15px -91px;
+  width: 18px;
+  height: 14px;
+}
+.snsprite-health_goals {
+  background-image: url(sn-sprite.png);
+  background-position: -16px -56px;
+  width: 16px;
+  height: 19px;
+}
+.snsprite-health_goals:hover,
+.active.snsprite-health_goals,
+.active .snsprite-health_goals,
+.btn:hover .snsprite-health_goals {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -56px;
+  width: 16px;
+  height: 19px;
+}
+.snsprite-hide {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -40px;
+  width: 21px;
+  height: 16px;
+}
+.snsprite-location {
+  background-image: url(sn-sprite.png);
+  background-position: -110px -83px;
+  width: 13px;
+  height: 17px;
+}
+.snsprite-logout {
+  background-image: url(sn-sprite.png);
+  background-position: -110px -66px;
+  width: 14px;
+  height: 17px;
+}
+.snsprite-logout:hover,
+.active.snsprite-logout,
+.active .snsprite-logout,
+.btn:hover .snsprite-logout {
+  background-image: url(sn-sprite.png);
+  background-position: -110px -49px;
+  width: 14px;
+  height: 17px;
+}
+.snsprite-media_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -64px -108px;
+  width: 16px;
+  height: 14px;
+}
+.snsprite-media_new_post:hover,
+.active.snsprite-media_new_post,
+.active .snsprite-media_new_post,
+.btn:hover .snsprite-media_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -32px -108px;
+  width: 16px;
+  height: 14px;
+}
+.snsprite-media_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -48px -108px;
+  width: 16px;
+  height: 14px;
+}
+.snsprite-media_reply:hover,
+.active.snsprite-media_reply,
+.active .snsprite-media_reply,
+.btn:hover .snsprite-media_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -16px -108px;
+  width: 16px;
+  height: 14px;
+}
+.snsprite-mobile {
+  background-image: url(sn-sprite.png);
+  background-position: -97px 0px;
+  width: 13px;
+  height: 20px;
+}
+.snsprite-my_activity {
+  background-image: url(sn-sprite.png);
+  background-position: -40px 0px;
+  width: 22px;
+  height: 18px;
+}
+.snsprite-my_activity:hover,
+.active.snsprite-my_activity,
+.active .snsprite-my_activity,
+.btn:hover .snsprite-my_activity {
+  background-image: url(sn-sprite.png);
+  background-position: -40px -18px;
+  width: 22px;
+  height: 18px;
+}
+.snsprite-network {
+  background-image: url(sn-sprite.png);
+  background-position: -20px 0px;
+  width: 20px;
+  height: 20px;
+}
+.snsprite-network:hover,
+.active.snsprite-network,
+.active .snsprite-network,
+.btn:hover .snsprite-network {
+  background-image: url(sn-sprite.png);
+  background-position: -20px -20px;
+  width: 20px;
+  height: 20px;
+}
+.snsprite-notifications_circle {
+  background-image: url(sn-sprite.png);
+  background-position: -62px 0px;
+  width: 18px;
+  height: 18px;
+}
+.snsprite-notifications {
+  background-image: url(sn-sprite.png);
+  background-position: 0px 0px;
+  width: 20px;
+  height: 20px;
+}
+.snsprite-notifications:hover,
+.active.snsprite-notifications,
+.active .snsprite-notifications,
+.btn:hover .snsprite-notifications {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -20px;
+  width: 20px;
+  height: 20px;
+}
+.snsprite-profile {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -75px;
+  width: 17px;
+  height: 16px;
+}
+.snsprite-profile:hover,
+.active.snsprite-profile,
+.active .snsprite-profile,
+.btn:hover .snsprite-profile {
+  background-image: url(sn-sprite.png);
+  background-position: -80px -51px;
+  width: 17px;
+  height: 16px;
+}
+.snsprite-reply {
+  background-image: url(sn-sprite.png);
+  background-position: -51px -56px;
+  width: 19px;
+  height: 16px;
+}
+.snsprite-reply:hover,
+.active.snsprite-reply,
+.active .snsprite-reply,
+.btn:hover .snsprite-reply {
+  background-image: url(sn-sprite.png);
+  background-position: -32px -56px;
+  width: 19px;
+  height: 16px;
+}
+.snsprite-settings {
+  background-image: url(sn-sprite.png);
+  background-position: -80px 0px;
+  width: 17px;
+  height: 17px;
+}
+.snsprite-settings:hover,
+.active.snsprite-settings,
+.active .snsprite-settings,
+.btn:hover .snsprite-settings {
+  background-image: url(sn-sprite.png);
+  background-position: -80px -17px;
+  width: 17px;
+  height: 17px;
+}
+.snsprite-share {
+  background-image: url(sn-sprite.png);
+  background-position: -110px -16px;
+  width: 15px;
+  height: 16px;
+}
+.snsprite-share:hover,
+.active.snsprite-share,
+.active .snsprite-share,
+.btn:hover .snsprite-share {
+  background-image: url(sn-sprite.png);
+  background-position: -110px 0px;
+  width: 15px;
+  height: 16px;
+}
+.snsprite-show {
+  background-image: url(sn-sprite.png);
+  background-position: -33px -91px;
+  width: 21px;
+  height: 11px;
+}
+.snsprite-symbol_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -17px -75px;
+  width: 18px;
+  height: 15px;
+}
+.snsprite-symbol_new_post:hover,
+.active.snsprite-symbol_new_post,
+.active .snsprite-symbol_new_post,
+.btn:hover .snsprite-symbol_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -35px -75px;
+  width: 18px;
+  height: 15px;
+}
+.snsprite-symbol_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -53px -75px;
+  width: 18px;
+  height: 15px;
+}
+.snsprite-symbol_reply:hover,
+.active.snsprite-symbol_reply,
+.active .snsprite-symbol_reply,
+.btn:hover .snsprite-symbol_reply {
+  background-image: url(sn-sprite.png);
+  background-position: -71px -75px;
+  width: 18px;
+  height: 15px;
+}
+.snsprite-video_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: -80px -108px;
+  width: 16px;
+  height: 14px;
+}
+.snsprite-video_new_post:hover,
+.active.snsprite-video_new_post,
+.active .snsprite-video_new_post,
+.btn:hover .snsprite-video_new_post {
+  background-image: url(sn-sprite.png);
+  background-position: 0px -108px;
+  width: 16px;
+  height: 14px;
+}

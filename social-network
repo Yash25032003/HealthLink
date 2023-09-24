@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en" ng-app="kw.socialNetwork">
+<head>
+    <meta charset="utf-8">
+    <title>HealthLink Network</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+    <base href="">
+
+    <link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css">
+    <link rel="stylesheet" href="assets/vendor/remark-template/fonts/material-design/material-design.min.css">
+    <link rel="stylesheet" href="assets/vendor/remark-template/fonts/web-icons/web-icons.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap-table/dist/bootstrap-table.min.css">
+    <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css"/>
+    <link rel="stylesheet" href="assets/css/social-network-libs.css">
+    <link rel="stylesheet" href="assets/css/social-network.css">
+    <link rel="stylesheet" href="assets/css/sitesprite.css">
+    <link rel="stylesheet" href="assets/css/sn-sprite.css">
+        <link rel="stylesheet" href="assets/vendor/remark-template/vendor/animsition/animsition.css">
+    <link rel="stylesheet" href="assets/vendor/remark-template/vendor/asscrollable/asScrollable.css">
+    <link rel="stylesheet" href="assets/vendor/remark-template/vendor/switchery/switchery.css">
+    <link rel="stylesheet" href="assets/vendor/remark-template/vendor/slidepanel/slidePanel.css">
+    <link rel="stylesheet" href="https://healthlink.com/assets/vendor/remark-template/vendor/flag-icon-css/flag-icon.css">
+    <link rel="stylesheet" href="assets/vendor/ng-wig/dist/css/ng-wig.min.css">
+    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="https://healthlink.com/assets/vendor/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.min.css">
+    <link rel="stylesheet" href="https://healthlink.com/assets/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick-theme.css">
+    <link rel="stylesheet" href="assets/vendor/ng-bootstrap-lightbox/dist/css/lightbox.min.css">
+    <link rel="stylesheet" href="assets/vendor/ziggeo-client-sdk/build/ziggeo.css" />
+    <link rel="stylesheet" href="assets/vendor/angular-confirm/dist/angular-confirm.min.css" />
+
+    <link rel="stylesheet" href="assets/vendor/remark-template/vendor/chartist-js/chartist.min.css@v2.2.0">
+    <link rel="stylesheet" href="assets/vendor/remark-template/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.css@v2.2.0">
+        <script src="assets/vendor/remark-template/vendor/breakpoints/breakpoints.js"></script>
+</head>
+<body>
+<social-network></social-network>
+
+<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+<script src="assets/vendor/moment/moment.js"></script>
+<script src="assets/vendor/moment-timezone/builds/moment-timezone-with-data.min.js"></script>
+<script src="assets/vendor/angular/angular.min.js"></script>
+<script src="assets/vendor/angular-sanitize/angular-sanitize.min.js"></script>
+<script src="assets/vendor/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="assets/vendor/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+<script src="assets/vendor/angular-ui-tree/dist/angular-ui-tree.min.js"></script>
+<script src="assets/vendor/ng-tags-input/ng-tags-input.min.js"></script>
+<script src="assets/vendor/angular-file-upload/dist/angular-file-upload.min.js"></script>
+<script src="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="assets/vendor/ng-scrollbars/dist/scrollbars.min.js"></script>
+<script src="assets/vendor/bootstrap-table/dist/bootstrap-table.min.js"></script>
+<script src="assets/vendor/angular-file-upload/dist/angular-file-upload.min.js"></script>
+<script src="assets/vendor/ng-wig/dist/ng-wig.min.js"></script>
+<script src="assets/vendor/ment.io/dist/mentio.min.js"></script>
+<script src="assets/vendor/chart.js/dist/Chart.min.js"></script>
+<script src="assets/vendor/angular-chart.js/dist/angular-chart.min.js"></script>
+<script src="assets/vendor/jspdf/dist/jspdf.min.js"></script>
+<script src="assets/vendor/jspdf-autotable/dist/jspdf.plugin.autotable.min.js"></script>
+<script src="assets/vendor/html2canvas/build/html2canvas.min.js"></script>
+<script src="assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="assets/vendor/angular-slick-carousel/dist/angular-slick.js"></script>
+<script src="assets/vendor/ng-bootstrap-lightbox/dist/js/lightbox.min.js"></script>
+<script src="assets/vendor/ziggeo-client-sdk/build/ziggeo.js"></script>
+<script src="assets/vendor/angular-ui-mask/dist/mask.min.js"></script>
+<script src="assets/vendor/angular-socialshare/dist/angular-socialshare.min.js"></script>
+<script src="assets/vendor/angular-confirm/dist/angular-confirm.min.js"></script>
+<script src="assets/vendor/mobile-detect/mobile-detect.min.js"></script>
+
+<script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="assets/vendor/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js"></script>
+<script src="assets/vendor/remark-template/vendor/animsition/animsition.js"></script>
+<script src="assets/vendor/remark-template/vendor/asscroll/jquery-asScroll.js"></script>
+<script src="assets/vendor/remark-template/vendor/mousewheel/jquery.mousewheel.js"></script>
+<script src="assets/vendor/remark-template/vendor/asscrollable/jquery.asScrollable.all.js"></script>
+<script src="assets/vendor/remark-template/vendor/ashoverscroll/jquery-asHoverScroll.js"></script>
+<script src="assets/vendor/remark-template/vendor/switchery/switchery.min.js"></script>
+<script src="assets/vendor/remark-template/vendor/screenfull/screenfull.js"></script>
+<script src="assets/vendor/remark-template/vendor/slidepanel/jquery-slidePanel.js"></script>
+
+<script src="assets/vendor/remark-template/vendor/chartist-js/chartist.js"></script>
+<script src="assets/vendor/remark-template/vendor/chartist-plugin-tooltip/chartist-plugin-tooltip.min.js"></script>
+<script src="assets/vendor/load-image/js/load-image.js"></script>
+<script src="assets/vendor/load-image/js/load-image-meta.js"></script>
+<script src="assets/vendor/load-image/js/load-image-orientation.js"></script>
+
+<script src="assets/vendor/remark-template/js/core.js"></script>
+<script src="assets/vendor/remark-template/js/site.js"></script>
+<script src="assets/vendor/remark-template/js/app.js"></script>
+<script src="assets/vendor/remark-template/js/sections/menu.js"></script>
+<script src="assets/vendor/remark-template/js/sections/menubar.js"></script>
+<script src="assets/vendor/remark-template/js/sections/gridmenu.js"></script>
+<script src="assets/vendor/remark-template/js/sections/sidebar.js"></script>
+<script src="assets/vendor/remark-template/js/components/asscrollable.min.js"></script>
+<script src="assets/vendor/remark-template/js/components/panel.js"></script>
+<script src="assets/vendor/remark-template/js/components/slidepanel.min.js"></script>
+
+<script src="assets/js/minified/network.min.js"></script>
+<script src="assets/js/site/pages/social-network.js"></script>
+
+</body>
+</html>

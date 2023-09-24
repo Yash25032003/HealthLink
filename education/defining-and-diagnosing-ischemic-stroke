@@ -1,0 +1,468 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="viXITKjodXo7rxldydlRxD2XqeGs-95EJd4NB3budFo" />
+    <title>
+        Defining and Diagnosing Ischemic Stroke | HealthLink    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+    	<meta name="description" content="Early diagnosing and prevention are crucial factors in fighting ischemic stroke, which is the third leading cause of death in the United States!"/>
+    
+    <link rel="stylesheet" href="../assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="../assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+            <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="stylesheet" href="../assets/css/sitesprite.css">
+    
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118215074-1"></script>
+    <script> window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-118215074-1'); </script>
+
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+
+
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1625385854181933');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1625385854181933&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+<body>
+            <div class="loader-overlay">
+            <div class="loader">
+                <div class="loader-up-graphics"></div>
+                <div class="loader-down-graphics"></div>
+            </div>
+        </div>
+    
+    <div class="request-loader">
+        Loading <i class="dots-animation"></i>
+    </div>
+
+    <header class="s-header clearfix container s-section-sm">
+        <a href="../index.html" class="s-logo clearfix">
+            <img src="../img/kw-logo.png" alt="HealthLink">
+            <div class="s-slogan">
+                Improve health and well being through communication, collaboration, and compliance
+            </div>
+        </a>
+
+        <span class="s-header-hamburger visible-xs">
+                <span class="icon icon-s-menu-hamburger"></span>
+            </span>
+
+        <nav class="s-navbar clearfix">
+            <div class="s-user-links clearfix">
+                                    <div id="navbar-user-not-logged-in" class="clearfix">
+                        <a href="../join" class="btn">Join us</a>
+                        <a href="../login" class="btn btn-gray">Login</a>
+                    </div>
+                                            </div>
+            <ul class="s-menu clearfix">
+                                    <li class="s-dropdown blue">
+                        <a href="../index.html" class="btn btn-lg">Health Zone</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                                            <li><a href="../education@page=1">Education</a></li>
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown blue">
+                        <a href="../social-network" class="btn btn-lg">Social Network</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown ">
+                        <a href="../podcast" class="btn btn-lg">Podcast</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown green">
+                        <a href="../about" class="btn btn-lg">About Us</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown purple">
+                        <a href="../index.html" class="btn btn-lg">Support</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="../help-center">Help center</a></li>
+                                                            <li><a href="../terms">Terms Of Service</a></li>
+                                                            <li><a href="../privacy">Privacy Policy</a></li>
+                                                            <li><a href="../contact">Contact us</a></li>
+                                                    </ul>
+                    </li>
+                            </ul>
+        </nav>
+    </header>
+	<section class="fluid-container s-breadcrumbs-section">
+		<div class="container s-breadcrumbs">
+			<a href="../education@page=1" class="item">Health and wellness</a>
+			<a href="category/education@page=1" class="item">Education</a>
+			<span href="" class="item active">Education Post</span>
+		</div>
+	</section>
+
+	<section class="container category-news-items clearfix">
+		<div class="row">
+			<div class="post-wrapper col-lg-9">
+				
+		<div class="post-entity" id="post-id-38">
+	<h1 class="post-title">
+		Defining and Diagnosing Ischemic Stroke
+	</h1>
+
+	<div class="post-top-meta">
+					    <span class="post-authors-list">
+                                                
+                <a href="author/Sean&#32;Bannister@page=1">
+                    Sean Bannister
+                </a>
+                                        </span>
+
+		
+		
+											</div>
+
+	<div class="post-content">
+					<div class="bg-thumb mb-sm" style="background-image: url(../files/dff6bbebb687ca7bbe7c83f94fecb29bc2dcd8fb.jpg);"></div>
+		
+		<h2><span style="font-size: 21.3333px; color: #70574b;">What is Ischemic Stroke?</span></h2>
+<p><span style="color: #70574b; font-size: 16px;">Ischemic stroke is defined as the sudden onset of characteristic neurologic defects such as arm, leg, or facial weakness, numbness, inability to talk, garbled speech, or changes in vision due to the blockage of an artery in the brain by a blood clot or foreign material. It is the third leading cause of death in the United States. There is another type of stroke, known as hemorrhagic stroke, that is caused by bleeding in the brain due to a ruptured artery.</span></p>
+<h2><span style="font-size: 21.3333px; color: #70574b;">Risk factors for Brain Ischemia include:</span></h2>
+<ul>
+<li>
+<p><span style="color: #70574b;">High blood pressure</span></p>
+</li>
+<li>
+<p><a href="7-reasons-to-quit-smoking-now">Tobacco abuse</a></p>
+</li>
+<li>
+<p><span style="color: #70574b;">High cholesterol</span></p>
+</li>
+<li>
+<p><span style="color: #70574b;">Diabetes</span></p>
+</li>
+<li>
+<p><span style="color: #70574b;">Valvular heart disease </span></p>
+</li>
+<li>
+<p><span style="color: #70574b;">Carotid artery disease</span></p>
+</li>
+<li>
+<p><span style="color: #70574b;">Sedentary lifestyle</span></p>
+</li>
+<li>
+<p><a href="4-fast-facts-about-obesity" target="_blank" rel="noopener noreferrer">Obesity</a></p>
+</li>
+</ul>
+<blockquote>
+<p style="text-align: center;"><span style="font-size: 21.3333px; color: #07b48d;">CT scan of the brain is performed very early to help determine eligibility for clot busters that are important in the early treatment of brain ischemia.</span></p>
+</blockquote>
+<h2><span style="font-size: 21.3333px; color: #70574b;">How to Diagnose Cerebrovascular Accident? </span></h2>
+<p><span style="font-size: 16px; color: #70574b;">It is often diagnosed after someone presents to a healthcare provider or emergency department with classic symptoms that include weakness, numbness, facial droop, speech difficulty, and changes in vision. Anyone displaying characteristic signs and symptoms of stroke require rapid evaluation and treatment that includes a CT scan of the brain to detect evidence of stroke. There are relatively high complication and death rates associated with this medical condition. Complications can result in temporary or permanent disability, so early initiation of </span><span style="font-size: 16px;"><a href="understanding-treatment-options-for-ischemic-stroke" target="_blank" rel="noopener noreferrer"><span style="color: #4472c4;">stroke treatment </span></a></span><span style="font-size: 16px; color: #70574b;"><a href="understanding-treatment-options-for-ischemic-stroke" target="_blank" rel="noopener noreferrer">is required</a>. A Neurologist must be involved in the care very early on.</span></p>
+<ol>
+<li>
+<p><span style="color: #70574b;"><strong>Early testing</strong><br /><span style="color: #70574b; font-size: 16px;">Special tests that may be ordered for evaluation when stroke is suspected include a CT scan of the brain to ensure the stroke is not due to bleeding, or hemorrhagic stroke. CT scan of the brain is performed very early to help determine eligibility for clot busters that are important in the early treatment of cerebral ischemia. These drugs cannot be used if there is evidence of bleeding in the brain.</span><br /></span></p>
+</li>
+<li>
+<p><span style="color: #70574b;"><span style="color: #70574b; font-size: 16px;"><strong>Late testing</strong><br /></span><span style="color: #70574b; font-size: 16px;">A Neurologist&rsquo;s evaluation of&nbsp;this specific type of&nbsp;cerebrovascular accident will typically include an MRI of the brain to determine the exact area of the brain affected by the stroke. Additional testing is ordered to evaluate for the cause as clot and debris can originate from locations other than the brain. Echocardiography is performed to evaluate for blood clots in the heart and defects that would allow debris to reach the brain, carotid ultrasound, or ultrasound of the neck arteries, is performed to evaluate for significant blockage that could cause stroke, and blood testing to evaluate for excessive clotting may be required</span></span></p>
+</li>
+</ol>
+	</div>
+
+			<div class="post-tags">
+			<span class="post-tags-title">TAGS:</span>
+			<ul class="post-tags-list">
+									<li class="item"><i class="icon icon-tag"></i>
+													<a href="tag/chronic-disease@page=1">chronic-disease</a>
+						
+						
+											</li>
+									<li class="item"><i class="icon icon-tag"></i>
+													<a href="tag/stroke">stroke</a>
+						
+						
+											</li>
+									<li class="item"><i class="icon icon-tag"></i>
+													<a href="tag/CVA">CVA</a>
+						
+						
+											</li>
+									<li class="item"><i class="icon icon-tag"></i>
+													<a href="tag/ischemic-stroke">ischemic-stroke</a>
+						
+						
+											</li>
+									<li class="item"><i class="icon icon-tag"></i>
+													<a href="tag/health-condition">health-condition</a>
+						
+						
+											</li>
+							</ul>
+		</div>
+	
+	<div class="post-social clearfix">
+		<div class="item">
+			<a href="javascript: window.open('http://www.facebook.com/sharer.php?u=' + window.location, '_blank')" class="facebook-button"><i class="icon icon-fb_n facebook-share-button"></i></a>
+			<span class="facebook-count"></span>
+		</div>
+		<div class="item">
+			<a href="javascript: window.open('https://twitter.com/share?url=' + window.location  + '&amp;text=HealthLink&amp;hashtags=healthlink', '_blank')" class="twitter-button"><i class="icon icon-tw_n"></i></a>
+			<span class="twitter-count"></span>
+		</div>
+		<div class="item">
+        			<a href="javascript: window.open('http://pinterest.com/pin/create/button/?url='+ window.location +'&media=/files/dff6bbebb687ca7bbe7c83f94fecb29bc2dcd8fb.jpg&description=')" class="pinterest-button"><i class="icon icon-pinterest"></i></a>
+        			<span class="twitter-count"></span>
+        		</div>
+												<div class="item right">
+			<i class="icon icon-comment_n"></i>
+			<span id="comments-counter">0</span>
+		</div>
+	</div>
+
+	<div class="posts-navigator-wrapper clearfix">
+					<div class="post-prev">			
+				<div class="post-nav-img">
+					<div class="bg-thumb" style="background-image: url(../files/8d820b2aa61bdadf75118c833cd4ff1f60f8d9b8.jpg);"></div>
+				</div>
+				<div class="post-nav-text">
+					<a href="insulin-therapy-for-type-2-diabetes" class="post-navigator-title">What is Insulin Therapy for Type 2 Diabetes?</a>
+					<div class="arrow">
+						<i class="icon icon-nav-arrow-left_n"></i>
+						Previous Article
+					</div>
+				</div>
+			</div>
+							<div class="post-next">
+				<div class="post-nav-text">
+					<a href="understanding-treatment-options-for-ischemic-stroke" class="post-navigator-title">Understanding the Best Treatment Options for Ischemic Stroke</a>
+					<div class="arrow">
+						Next Article
+						<i class="icon icon-nav-arrow-right_n"></i>
+					</div>
+				</div>
+				<div class="post-nav-img">
+					<div class="bg-thumb" style="background-image: url(../files/b9a6c0bd951910dac160fc672128fda58c00fdb0.jpg);"></div>
+				</div>
+			</div>
+			</div>
+
+	<div class="post-comments-wrapper">
+		<h2 class="post-comments-counter">
+			<span id="post-comments-counter">Comments</h2>
+		<div class="post-comments-list">
+					</div>
+	</div>
+
+	<div class="post-new-comment-wrapper">
+		<h2 class="post-new-comment-title">Leave a message</h2>
+
+		<div class="post-new-comment">
+			<form id="new-comment-form">
+				<div class="row">
+					<div class="col-xs-12 mb-sm">
+						<textarea class="form-control post-new-comment-body" placeholder="Message" name="message"></textarea>
+					</div>				
+
+					<div class="col-xs-12 mb-sm text-center">
+						<button class="btn btn-blue post-new-comment-btn" type="submit">Post comment</button>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>			</div>
+
+			<div class="col-lg-3">
+				
+<aside class="sidebar">
+
+	    
+
+																																								
+	<div class="sidebar-section">
+		<div class="sidebar-section-header">
+			Recent posts
+		</div>
+					<div class="sidebar-posts-list">
+			<div class="sidebar-post-item">
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(../files/81bbdaf7536654f605e6bba23646b5122f2357be.jpg);"></div>
+					</div>
+				
+				<a href="understanding-peripheral-artery-disease" 
+				   class="title">
+					Understanding Peripheral Artery Disease: Facts, Diagnosis and Treatment Options
+				</a>
+
+																		
+								   												</div>
+		</div>
+					<div class="sidebar-posts-list">
+			<div class="sidebar-post-item">
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(../files/5adffa6f1999f9c3f32ac34c490bea1e8ebd682c.jpg);"></div>
+					</div>
+				
+				<a href="4-fast-facts-about-obesity" 
+				   class="title">
+					Obesity Facts and Statistics Everyone Should Know
+				</a>
+
+																		
+								   												</div>
+		</div>
+					<div class="sidebar-posts-list">
+			<div class="sidebar-post-item">
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(../files/b9a6c0bd951910dac160fc672128fda58c00fdb0.jpg);"></div>
+					</div>
+				
+				<a href="understanding-treatment-options-for-ischemic-stroke" 
+				   class="title">
+					Understanding the Best Treatment Options for Ischemic Stroke
+				</a>
+
+																		
+								   												</div>
+		</div>
+				
+
+		
+	</div>
+
+	<div class="sidebar-section">
+		<div class="sidebar-section-header">
+			Tags
+		</div>
+		<div class="sidebar-tags clearfix">
+							<a class="tag" href="tag/health-and-wellness-social-network">
+					health-and-wellness-social-network
+				</a>
+							<a class="tag" href="tag/collaboration">
+					collaboration
+				</a>
+							<a class="tag" href="tag/preventive-health">
+					preventive-health
+				</a>
+							<a class="tag" href="tag/nutrition">
+					nutrition
+				</a>
+							<a class="tag" href="tag/healthy-eating">
+					healthy-eating
+				</a>
+							<a class="tag" href="tag/medications">
+					medications
+				</a>
+							<a class="tag" href="tag/activity">
+					activity
+				</a>
+							<a class="tag" href="tag/exercise">
+					exercise
+				</a>
+							<a class="tag" href="tag/fitness">
+					fitness
+				</a>
+							<a class="tag" href="tag/medical-compliance">
+					medical-compliance
+				</a>
+							<a class="tag" href="tag/healthcare-compliance">
+					healthcare-compliance
+				</a>
+							<a class="tag" href="tag/chronic-disease@page=1">
+					chronic-disease
+				</a>
+							<a class="tag" href="tag/healthcare-illiteracy">
+					healthcare-illiteracy
+				</a>
+							<a class="tag" href="tag/medical-illiteracy">
+					medical-illiteracy
+				</a>
+							<a class="tag" href="tag/risk-factors@page=1">
+					risk-factors
+				</a>
+					</div>
+	</div>
+
+	    
+	    
+</aside>			</div>
+		</div>
+	</section>
+
+    <footer class="s-footer fluid-container s-section">
+        <nav class="container s-footer-menu">
+                            <ul class="s-footer-menu-item">
+                    <li><a href="../index.html">Health Zone</a>
+                                            <li><a href="use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                        <li><a href="../education@page=1">Education</a></li>
+                                    </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="../social-network">Social Network</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="../podcast">Podcast</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="../about">About Us</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="../index.html">Support</a>
+                                            <li><a href="../help-center">Help center</a></li>
+                                        <li><a href="../terms">Terms Of Service</a></li>
+                                        <li><a href="../privacy">Privacy Policy</a></li>
+                                        <li><a href="../contact">Contact us</a></li>
+                                    </ul>
+                    </nav>
+        <div class="container">
+            <a href="../index.html" class="s-footer-menu-logo hidden-xs">
+                <span class="icon icon-kw-footer-logo"></span>
+            </a>
+
+            <div class="rights-reserved hidden-xs">
+                Copyright © 2018 HealthLink, Inc. All Rights Reserved
+            </div>
+
+            <div class="rights-reserved visible-xs text-center">
+                © HealthLink 2018
+            </div>
+        </div>
+    </footer>
+
+	    <script src="../assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="../assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+	<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+
+    <script src="../assets/js/minified/site-common.min.js"></script>
+    <script src="../assets/js/minified/site.min.js"></script>
+</body>
+</html>

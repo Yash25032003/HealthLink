@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="viXITKjodXo7rxldydlRxD2XqeGs-95EJd4NB3budFo" />
+    <title>
+        Medical Cannabis posts - HealthLink    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+            
+    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/sitesprite.css">
+    
+                <link rel="next" href="medical-cannabis@page=2" />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118215074-1"></script>
+    <script> window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-118215074-1'); </script>
+
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+
+
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1625385854181933');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1625385854181933&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+<body>
+            <div class="loader-overlay">
+            <div class="loader">
+                <div class="loader-up-graphics"></div>
+                <div class="loader-down-graphics"></div>
+            </div>
+        </div>
+    
+    <div class="request-loader">
+        Loading <i class="dots-animation"></i>
+    </div>
+
+    <header class="s-header clearfix container s-section-sm">
+        <a href="index.html" class="s-logo clearfix">
+            <img src="img/kw-logo.png" alt="HealthLink">
+            <div class="s-slogan">
+                Improve health and well being through communication, collaboration, and compliance
+            </div>
+        </a>
+
+        <span class="s-header-hamburger visible-xs">
+                <span class="icon icon-s-menu-hamburger"></span>
+            </span>
+
+        <nav class="s-navbar clearfix">
+            <div class="s-user-links clearfix">
+                                    <div id="navbar-user-not-logged-in" class="clearfix">
+                        <a href="join" class="btn">Join us</a>
+                        <a href="login" class="btn btn-gray">Login</a>
+                    </div>
+                                            </div>
+            <ul class="s-menu clearfix">
+                                    <li class="s-dropdown blue">
+                        <a href="index.html" class="btn btn-lg">Health Zone</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                                            <li><a href="education@page=1">Education</a></li>
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown blue">
+                        <a href="social-network" class="btn btn-lg">Social Network</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown ">
+                        <a href="podcast" class="btn btn-lg">Podcast</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown green">
+                        <a href="about" class="btn btn-lg">About Us</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown purple">
+                        <a href="index.html" class="btn btn-lg">Support</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="help-center">Help center</a></li>
+                                                            <li><a href="terms">Terms Of Service</a></li>
+                                                            <li><a href="privacy">Privacy Policy</a></li>
+                                                            <li><a href="contact">Contact us</a></li>
+                                                    </ul>
+                    </li>
+                            </ul>
+        </nav>
+    </header>
+	<section class="fluid-container s-section s-page-banner medical-cannabis-banner">
+		<h1 class="title ">Medical Cannabis</h1>
+		<h4 class="subtitle">Check out the latest and most important medical cannabis posts</h4>
+	</section>
+
+	<section class="fluid-contaier s-section newspage-slider-section">
+		<div class="container s-slider newspage-slider">
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/0140cc03e49ed3614203aec15a0dc91cb6b3f862.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington-dc" class="title">Facts on Medical Marijuana Legislation in Washington DC</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/4271faa6a3f34e65214ff135cfae049c82cdd281.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington" class="title">Positive Laws on Medical Marijuana in Washington</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/31ccb98a0354d2cb1c8c01f6f17203c69f6ef169.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-vermont" class="title">Cannabis as Medicine in Vermont: Laws and Applying Procedures You Need to Know</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/6d6d683d53f1978b130b85a850780d29889e54bf.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-rhode-island" class="title">Laws on Medical Cannabis in Rhode Island</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/f7131384ca7056f0c995551e0963a2def888fd8b.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-pennsylvania" class="title">Facts on Pennsylvania Medical Marijuana Laws and Legal Procedures</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/9245d894e7c025b4af67f866b82a1af7d7af4769.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-oregon" class="title">Medical Cannabis Laws in Oregon Explained</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/1f187b97f551116c7261d55527a11e16b1b474f0.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-ohio" class="title">Introduction to Ohio Medical Marijuana Laws</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/9b86d3f19e51bcf765da120cbbc7b62b5ff1c615.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-north-dakota" class="title">Understanding Medical Cannabis Regulations in North Dakota</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/e92c4094040680166d5c7398299979e7e49e5492.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-new-york" class="title">Facts on New York Medical Marijuana Legislation</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/0140cc03e49ed3614203aec15a0dc91cb6b3f862.jpg);"
+					 >
+					<div class="newspage-slider-header">
+						<a href="medical-cannabis/understanding-medical-cannabis-laws-in-new-mexico" class="title">Understanding Laws on Medical Cannabis in New Mexico</a>
+						<div class="meta">
+														<div class="author"></div>
+						</div>
+					</div>
+				</div>
+			
+			<div class="s-slider-pagination newspage-slider-pagination"></div>
+		</div>
+
+	</section>
+
+	
+	<section class="fluid-container newspage-news-items clearfix">
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-west-virginia">
+						Understanding Medical Cannabis Laws in West Virginia
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/e92c4094040680166d5c7398299979e7e49e5492.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">West Virginia passed a law to legalize medical cannabis in&nbsp;</span><span style="font-size: 12pt;">2010 through Senate Bill 386</span><span style="font-size: 12pt;">. The law allows qualifying patients to possess a 30-day supply of medical marijuana, the amount is to be determined.</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-west-virginia" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington-dc">
+						Facts on Medical Marijuana Legislation in Washington DC
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/0140cc03e49ed3614203aec15a0dc91cb6b3f862.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Washington DC (District of Columbia) passed a law to legalize medical cannabis in 2010 through an Amendment Act that was approved in a 13-0 vote. The law allows qualifying patients to possess&nbsp;</span><span style="font-size: 12pt;">2-ounces of medical marijuana</span><span style="font-size: 12pt;">.&nbsp;</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington-dc" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington">
+						Positive Laws on Medical Marijuana in Washington
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/4271faa6a3f34e65214ff135cfae049c82cdd281.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Washington was the second state to legalize medical cannabis. Legalization was done through Initiative 692 that&nbsp;</span><span style="font-size: 12pt;">was passed in 1998 with 59% of the vote</span><span style="font-size: 12pt;">. The law allows qualifying patients to possess 8-ounces of medical marijuana and cultivate up to 6 plants.</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-washington" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-vermont">
+						Cannabis as Medicine in Vermont: Laws and Applying Procedures You Need to Know
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/31ccb98a0354d2cb1c8c01f6f17203c69f6ef169.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Vermont&nbsp;</span><span style="font-size: 12pt;">legalized medical cannabis in 2004&nbsp;</span><span style="font-size: 12pt;">through Senate Bill 76 and House Bill 645. The law allows qualifying patients to possess 2-ounces of medical marijuana and cultivate up to&nbsp;</span><span style="font-size: 12pt;">9 plants&nbsp;</span><span style="font-size: 12pt;">(2 mature, 7 immature).&nbsp;</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-vermont" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-rhode-island">
+						Laws on Medical Cannabis in Rhode Island
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/6d6d683d53f1978b130b85a850780d29889e54bf.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Rhode Island passed a law to legalize medical cannabis in&nbsp;</span><span style="font-size: 12pt;">2006 through Senate Bill 0710</span><span style="font-size: 12pt;">. The law allows qualifying patients to possess 2.5 ounces of medical marijuana and cultivate&nbsp;</span><span style="font-size: 12pt;">12 plants</span><span style="font-size: 12pt;">.&nbsp;</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-rhode-island" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-pennsylvania">
+						Facts on Pennsylvania Medical Marijuana Laws and Legal Procedures
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/f7131384ca7056f0c995551e0963a2def888fd8b.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt; color: rgb(112, 87, 75);">Pennsylvania passed a law to legalize medical cannabis in 2016 through Senate Bill 3. The law allows qualifying patients to p</span><span style="font-size: 12pt;">ossess a&nbsp;</span><span style="font-size: 12pt;">30-day supply&nbsp;</span><span style="font-size: 12pt;">of medical marijuana. Cultivation of medical marijuana is not allowed.&nbsp;</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-pennsylvania" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-oregon">
+						Medical Cannabis Laws in Oregon Explained
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/9245d894e7c025b4af67f866b82a1af7d7af4769.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Oregon passed a law to legalize medical marijuana in 1998 through a Ballot Measure that received&nbsp;</span><span style="font-size: 12pt;">55% of the vote</span><span style="font-size: 12pt;">. The law allows qualifying patients to possess 24-ounces of medical marijuana and cultivate up to&nbsp;</span><span style="font-size: 12pt;">24 plants&nbsp;</span><span style="font-size: 12pt;">(6 mature, 18 immature).</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-oregon" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-ohio">
+						Introduction to Ohio Medical Marijuana Laws
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/1f187b97f551116c7261d55527a11e16b1b474f0.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt;">Ohio passed a law to legalize medical cannabis in 2016 through House Bill 523. The law allows qualifying patients to possess a&nbsp;</span><span style="font-size: 12pt;">90-day supply of medical marijuana</span><span style="font-size: 12pt;">. The amount is to be determined. Cultivation of medical marijuana is not allowed.&nbsp;</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-ohio" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="medical-cannabis/understanding-medical-cannabis-laws-in-north-dakota">
+						Understanding Medical Cannabis Regulations in North Dakota
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/9b86d3f19e51bcf765da120cbbc7b62b5ff1c615.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 12pt; color: rgb(112, 87, 75);">Nort</span><span style="font-size: 12pt;">h Dakota passed a law to legalize medical cannabis in 2016 through Ballot Measure 5 that received&nbsp;</span><span style="font-size: 12pt;">63% of the vote</span><span style="font-size: 12pt;">. The law allows qualifying patients to possess 3 ounces of medical marijuana. Patients are allowed to cultivate&nbsp;</span><span style="font-size: 12pt;">8 cannabis plants&nbsp;</span><span style="font-size: 12pt;">if they live more than 40 miles away from a compassionate ca</span><span style="font-size: 12pt; color: rgb(112, 87, 75);">re center.</span><br></p>
+				</div>
+
+				<a href="medical-cannabis/understanding-medical-cannabis-laws-in-north-dakota" class="read-more">Continue Reading</a>
+			</div>
+			</section>
+
+	<nav class="s-section text-center">
+		<ul class="pagination pagination-lg">
+		<li class="active"><a href="medical-cannabis@page=1">1</a></li>
+<li><a href="medical-cannabis@page=2">2</a></li>
+<li><a href="medical-cannabis@page=3">3</a></li>
+<li><a href="medical-cannabis@page=4">4</a></li>
+<li><a href="medical-cannabis@page=2">Next</a></li>
+<li><a href="medical-cannabis@page=4">Last</a></li>
+	</ul>
+</nav>
+    <footer class="s-footer fluid-container s-section">
+        <nav class="container s-footer-menu">
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Health Zone</a>
+                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                        <li><a href="education@page=1">Education</a></li>
+                                    </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="social-network">Social Network</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="podcast">Podcast</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="about">About Us</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Support</a>
+                                            <li><a href="help-center">Help center</a></li>
+                                        <li><a href="terms">Terms Of Service</a></li>
+                                        <li><a href="privacy">Privacy Policy</a></li>
+                                        <li><a href="contact">Contact us</a></li>
+                                    </ul>
+                    </nav>
+        <div class="container">
+            <a href="index.html" class="s-footer-menu-logo hidden-xs">
+                <span class="icon icon-kw-footer-logo"></span>
+            </a>
+
+            <div class="rights-reserved hidden-xs">
+                Copyright © 2018 HealthLink, Inc. All Rights Reserved
+            </div>
+
+            <div class="rights-reserved visible-xs text-center">
+                © HealthLink 2018
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="assets/js/minified/site-common.min.js"></script>
+    <script src="assets/js/minified/site.min.js"></script>
+</body>
+</html>

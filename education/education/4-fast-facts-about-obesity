@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+        HealthLink    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+
+    <link rel="stylesheet" href="../../assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+	<style type="text/css">
+
+		.text-404 {
+			color: #71564B;
+		}
+
+		.button {
+			width: 250px;
+			padding: 10px 0px;
+			cursor: pointer;
+			color:white;
+			font-size:1em;
+			font-weight: 600;
+			border:none;
+			text-align: center;
+			margin-top: 15px;
+		}
+
+		.go-back-404 {		
+			background-color:#7E9DB1;
+		}
+
+		.home-page-404 {
+			color:white;
+			background-color:#07b48d;		
+		}
+
+		.text-not-found {
+			font-size:1.2em;
+		}
+
+		@media only screen and (min-width: 768px) {
+			.text-404 {
+				padding-top:150px;
+			}
+			body {
+				background-image:url("../../img/sprite/404.png");
+				background-repeat: no-repeat;
+				background-position: 10px 100px;
+				background-size: 47% auto;
+			}
+		}
+	</style>
+<body>
+	<div class="col-sm-6 col-sm-offset-5 text-404">
+		<h1>Page not found!</h1>
+		<p class="text-not-found">The page you were looking for appears to have been moved, deleted or doest not exist.
+			You can:
+		</p>
+		<p><button class="button go-back-404">GO BACK</button></p>
+		<p><button class="button home-page-404">GO TO HOMEPAGE</button></p>
+	</div>
+	<script src="../../assets/js/site/404.js"></script>
+</body>
+</html>

@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="viXITKjodXo7rxldydlRxD2XqeGs-95EJd4NB3budFo" />
+    <title>
+        Get Answers to Your Health Questions | HealthLink Education    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#07b48d">
+    	<meta name="description" content="Find factual health and wellness articles to stay educated on a variety of topics including obesity, ischemic stroke, diabetes, cancer, and more."/>
+    
+    <link rel="stylesheet" href="assets/vendor/animate.css/animate.min.css">
+    <link rel="stylesheet" href="assets/vendor/bootstrap/dist/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/sitesprite.css">
+    
+            <link rel="prev" href="education@page=2" />
+                <link rel="next" href="education@page=4" />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118215074-1"></script>
+    <script> window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-118215074-1'); </script>
+
+    <script>
+
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+
+
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1625385854181933');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1625385854181933&ev=PageView&noscript=1"/>
+    </noscript>
+</head>
+<body>
+            <div class="loader-overlay">
+            <div class="loader">
+                <div class="loader-up-graphics"></div>
+                <div class="loader-down-graphics"></div>
+            </div>
+        </div>
+    
+    <div class="request-loader">
+        Loading <i class="dots-animation"></i>
+    </div>
+
+    <header class="s-header clearfix container s-section-sm">
+        <a href="index.html" class="s-logo clearfix">
+            <img src="img/kw-logo.png" alt="HealthLink">
+            <div class="s-slogan">
+                Improve health and well being through communication, collaboration, and compliance
+            </div>
+        </a>
+
+        <span class="s-header-hamburger visible-xs">
+                <span class="icon icon-s-menu-hamburger"></span>
+            </span>
+
+        <nav class="s-navbar clearfix">
+            <div class="s-user-links clearfix">
+                                    <div id="navbar-user-not-logged-in" class="clearfix">
+                        <a href="join" class="btn">Join us</a>
+                        <a href="login" class="btn btn-gray">Login</a>
+                    </div>
+                                            </div>
+            <ul class="s-menu clearfix">
+                                    <li class="s-dropdown blue">
+                        <a href="index.html" class="btn btn-lg">Health Zone</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                                            <li><a href="education@page=1">Education</a></li>
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown blue">
+                        <a href="social-network" class="btn btn-lg">Social Network</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown ">
+                        <a href="podcast" class="btn btn-lg">Podcast</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown green">
+                        <a href="about" class="btn btn-lg">About Us</a>
+                        <ul class="s-dropdown-menu">
+                                                    </ul>
+                    </li>
+                                    <li class="s-dropdown purple">
+                        <a href="index.html" class="btn btn-lg">Support</a>
+                        <ul class="s-dropdown-menu">
+                                                            <li><a href="help-center">Help center</a></li>
+                                                            <li><a href="terms">Terms Of Service</a></li>
+                                                            <li><a href="privacy">Privacy Policy</a></li>
+                                                            <li><a href="contact">Contact us</a></li>
+                                                    </ul>
+                    </li>
+                            </ul>
+        </nav>
+    </header>
+	<section class="fluid-container s-section s-page-banner blogpage-banner section-with-subtitle-out-of-banner">
+		<h1 class="title ">Your Health Matters – The HealthLink Health & Wellness Education Library</h1>
+		<p class="subtitle">Check out the latest and most important education posts</p>
+	</section>
+	<p class="subtitle-2 subtitle-out-of-banner">Browse through our health and wellness articles on a wide variety of important topics, so you can be informed and make better choices for you and your family. We cover everything from how to use <a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">online health calculators</a> to treatments for chronic diseases and many <a href="medical-cannabis@page=1">important topics</a> in between. Join the discussion and be part of the HealthLink community.</p>
+	<section class="fluid-contaier s-section newspage-slider-section m-padding-top-0">
+		<div class="container s-slider newspage-slider">
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/81bbdaf7536654f605e6bba23646b5122f2357be.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/understanding-peripheral-artery-disease" class="title">Understanding Peripheral Artery Disease: Facts, Diagnosis and Treatment Options</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/5adffa6f1999f9c3f32ac34c490bea1e8ebd682c.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/4-fast-facts-about-obesity" class="title">Obesity Facts and Statistics Everyone Should Know</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/b9a6c0bd951910dac160fc672128fda58c00fdb0.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/understanding-treatment-options-for-ischemic-stroke" class="title">Understanding the Best Treatment Options for Ischemic Stroke</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/dff6bbebb687ca7bbe7c83f94fecb29bc2dcd8fb.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/defining-and-diagnosing-ischemic-stroke" class="title">Defining and Diagnosing Ischemic Stroke</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/8d820b2aa61bdadf75118c833cd4ff1f60f8d9b8.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/insulin-therapy-for-type-2-diabetes" class="title">What is Insulin Therapy for Type 2 Diabetes?</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/497ac5047d7556782b16e0469142f28dacd0e735.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/health-risks-associated-with-high-cholesterol" class="title">Health Risks Associated with High Cholesterol You Should be Aware Of</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/0ea220be519305d19a21c2e59485d434fbf05e77.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/important-facts-about-high-blood-pressure-or-hypertension" class="title">Important Facts About High Blood Pressure or Hypertension</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/1ed1049d216ddf461cb9d4210a9921fb05fc5383.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/4-facts-to-help-you-better-understand-type-2-diabetes" class="title">4 Facts to Help You Better Understand Type 2 Diabetes</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/ff5a46a2d4844179154a3f96f58ac95ae6343da6.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/important-facts-about-chronic-obstructive-pulmonary-disease-copd" class="title">Important Facts About Chronic Obstructive Pulmonary Disease (COPD)</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+							<div class="s-slider-item newspage-slider-item" 
+					 style="background-image: url(files/f093c4fd710d852fba235093023d615c12ebf47a.jpg);"
+					 >
+					<div class="newspage-slider-header">
+												<a href="education/important-facts-about-congestive-heart-failure" class="title">Important Facts About Congestive Heart Failure</a>
+						<div class="meta">
+																													<div class="author"></div>
+						</div>
+					</div>
+				</div>
+			
+			<div class="s-slider-pagination newspage-slider-pagination"></div>
+		</div>
+	</section>
+
+	
+	<section class="fluid-container newspage-news-items clearfix">
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/4-things-you-should-know-about-ace-inhibitors">
+						4 Important Facts on ACE Inhibitors You Just Need to Know
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/6a1205a6435a581127740ca7a78b40c9d20153dc.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p>What Are ACE Inhibitors?&nbsp;<span style="font-size: 16px; color: rgb(112, 87, 75);">ACE, or Angiotensin Converting Enzyme, Inhibitors are a class of medications that your healthcare provider may prescribe to help control&nbsp;</span><span style="font-size: 16px; color: rgb(0, 112, 192);">high blood pressure</span><span style="font-size: 16px; color: rgb(112, 87, 75);">&nbsp;or&nbsp;</span><span style="font-size: 16px; color: rgb(0, 112, 192);">hypertension</span><span style="font-size: 16px; color: rgb(112, 87, 75);">. High blood pressure is diagnosed by either 1. Systolic blood pressure (the top number of the blood pressure reading) consistently 140 mmHg or higher, or 2. Diastolic blood pressure (the bottom number of the blood pressure reading) consistently 90 mmHg or higher.</span></p>
+				</div>
+
+				<a href="education/4-things-you-should-know-about-ace-inhibitors" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/what-is-your-ideal-body-weight-ibw">
+						What Is Your Ideal Body Weight (IBW)?
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/a4bd35550ad1057ec86a0ebc85854529fd0dea6d.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p>What is IBW?&nbsp;<span style="font-size: 16px; color: rgb(112, 87, 75);">Ideal body weight (IBW) is the suggested weight range for your height, gender, and age. This weight range should be associated with the lowest risk of you developing and dying from a disease related to overweightness and obesity.</span><br></p>
+				</div>
+
+				<a href="education/what-is-your-ideal-body-weight-ibw" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/the-skinny-about-body-fat-percentage">
+						The Skinny About Body Fat Percentage
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/157b8551c8d5d101502e75e1fbb3a69cf5d89da0.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p>What is body fat percentage?&nbsp;<span style="font-size: 16px; color: rgb(112, 87, 75);">Body fat percentage is the portion of your body that is composed of fat, or that portion that is not lean body mass. The purpose of body fat, also known as adipose tissue, is to serve as a storage form of energy for the body and protection for vital organs.</span><br></p>
+				</div>
+
+				<a href="education/the-skinny-about-body-fat-percentage" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/are-you-drinking-enough-water">
+						Are You Drinking Enough Water?
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/1370df22f62ee620988f328bd65044072b94baab.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 16px; color: rgb(112, 87, 75);">How much water should you drink each day? Daily recommended fluid intake (DRFI) is the amount of fluid needed each day to provide for your body’s needs. Believe it or not, the human body is composed of over 60% water making this essential fluid the body’s principle chemical component. Water performs such functions as flushing out toxins, transporting nutrients, and moistening airway</span><br></p>
+				</div>
+
+				<a href="education/are-you-drinking-enough-water" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/lean-and-mean-what-does-this-really-say-about-you">
+						Lean And Mean, What Does LBM Really Say About You?
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/193b28d648f21a35df5307101c4209062d9305f9.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 16px; color: rgb(112, 87, 75);">What is lean body mass? Lean body mass (LBM) is a calculation of the amount of weight you carry on your body that is not fat. It is the combined weight of your muscles, bones, connective tissues, and organs. Typically 60 to 90% of your total body weight is lean body mass, meaning a total of 10 to 40% of total body mass is fat. Lean body mass does include some fat, about 3% in men and 13% in women, which is found around the brain, spinal cord, bone marrow, and organs. This fat is known as essential fat and is higher in women due to sexual characteristics related to child bearing.</span></p>
+				</div>
+
+				<a href="education/lean-and-mean-what-does-this-really-say-about-you" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/calculating-basal-metabolic-rate-bmr-to-jump-start-weight-loss">
+						Calculating Basal Metabolic Rate (BMR) To Jump Start Weight Loss
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/6f83fedbe2b5624627350ce66f8ad61d527719e7.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 16px; color: rgb(112, 87, 75);">Basal metabolic rate is the number of calories that you need each day to stay alive. In other words it is a calculation of the number of calories required to keep the body functioning at rest. Depending on your activity level you will need additional calories daily to maintain bodily functions. BMR affects the rate that calories are burned and whether you maintain, lose, or gain weight.</span><br></p>
+				</div>
+
+				<a href="education/calculating-basal-metabolic-rate-bmr-to-jump-start-weight-loss" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/how-bmi-body-mass-index-influences-your-health">
+						How Body Mass Index (BMI) Influences Your Health
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/6e856f97eb5518c2beb2bb645f16f33157d6f18e.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p>What is BMI?&nbsp;<span style="font-size: 16px; color: rgb(112, 87, 75);">BMI or Body Mass Index is a screening measure of body fat and obesity in adults 20 years and older. As BMI increases risks for certain diseases increase along with it. These diseases include heart disease, certain types of cancer, type 2 diabetes, high blood pressure, high cholesterol, sleep disorders, and arthritis. </span></p>
+				</div>
+
+				<a href="education/how-bmi-body-mass-index-influences-your-health" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+									<i class="icon icon-popular"></i>
+								<div class="title clearfix">
+										<a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">
+						Use Health Calculators To Jump Start Your Health And Wellness Goals
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/047e4c523b3303cf3df3a27782bdd5fb487f54c1.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="color: rgb(112, 87, 75); font-size: 16px;">You most likely have heard health and wellness buzzwords being tossed around by friends and colleagues such as BMI, body mass index, basal metabolic rate, or body fat percentage. You may not really understand what they mean or how they can help you live a healthier and happier life.</span><br></p>
+				</div>
+
+				<a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals" class="read-more">Continue Reading</a>
+			</div>
+					<div class="news-item newspage-news-item news-item-cell col-lg-4 col-sm-6 col-xs-12">
+								<div class="title clearfix">
+										<a href="education/5-simple-steps-to-jump-start-weight-loss">
+						5 Simple Steps To Jump Start Weight Loss
+					</a>
+				</div>
+
+									<div class="thumb">
+						<div class="bg-thumb" style="background-image: url(files/94e0204e29e01b273e630d21752809e9d2fd9006.jpg);"></div>
+					</div>
+				
+				<div class="source">
+									</div>
+
+				<div class="text">
+					<p><span style="font-size: 16px; color: rgb(112, 87, 75);">The two most common preventable causes of death in the United States are probably two of the hardest health conditions to treat – tobacco abuse and obesity. These two conditions are very complex and multifactorial with psychological and physical components. The saying goes that bad habits are hard to break...</span></p>
+				</div>
+
+				<a href="education/5-simple-steps-to-jump-start-weight-loss" class="read-more">Continue Reading</a>
+			</div>
+			</section>
+
+	<nav class="s-section text-center">
+		<ul class="pagination pagination-lg">
+		<li><a href="education@page=1">First</a></li>
+<li><a href="education@page=2">Previous</a></li>
+<li><a href="education@page=1">1</a></li>
+<li><a href="education@page=2">2</a></li>
+<li class="active"><a href="education@page=3">3</a></li>
+<li><a href="education@page=4">4</a></li>
+	</ul>
+</nav>
+    <footer class="s-footer fluid-container s-section">
+        <nav class="container s-footer-menu">
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Health Zone</a>
+                                            <li><a href="education/use-health-calculators-to-jump-start-your-health-and-wellness-goals">Calculators</a></li>
+                                        <li><a href="education@page=1">Education</a></li>
+                                    </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="social-network">Social Network</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="podcast">Podcast</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="about">About Us</a>
+                                        </ul>
+                            <ul class="s-footer-menu-item">
+                    <li><a href="index.html">Support</a>
+                                            <li><a href="help-center">Help center</a></li>
+                                        <li><a href="terms">Terms Of Service</a></li>
+                                        <li><a href="privacy">Privacy Policy</a></li>
+                                        <li><a href="contact">Contact us</a></li>
+                                    </ul>
+                    </nav>
+        <div class="container">
+            <a href="index.html" class="s-footer-menu-logo hidden-xs">
+                <span class="icon icon-kw-footer-logo"></span>
+            </a>
+
+            <div class="rights-reserved hidden-xs">
+                Copyright © 2018 HealthLink, Inc. All Rights Reserved
+            </div>
+
+            <div class="rights-reserved visible-xs text-center">
+                © HealthLink 2018
+            </div>
+        </div>
+    </footer>
+
+    <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="assets/js/minified/site-common.min.js"></script>
+    <script src="assets/js/minified/site.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,294 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-404 {
+  background-image: url(sitesprite.png);
+  background-position: 0px 0px;
+  width: 475px;
+  height: 532px;
+}
+.icon-arrow-down {
+  background-image: url(sitesprite.png);
+  background-position: -793px -441px;
+  width: 32px;
+  height: 32px;
+}
+.icon-arrow-up {
+  background-image: url(sitesprite.png);
+  background-position: -761px -441px;
+  width: 32px;
+  height: 32px;
+}
+.icon-bottom-logo {
+  background-image: url(sitesprite.png);
+  background-position: -475px -481px;
+  width: 236px;
+  height: 47px;
+}
+.icon-clock {
+  background-image: url(sitesprite.png);
+  background-position: -801px -413px;
+  width: 20px;
+  height: 20px;
+}
+.icon-comment_n {
+  background-image: url(sitesprite.png);
+  background-position: -681px -315px;
+  width: 50px;
+  height: 50px;
+}
+.icon-comment_s {
+  background-image: url(sitesprite.png);
+  background-position: -781px -315px;
+  width: 50px;
+  height: 50px;
+}
+.icon-comments_n {
+  background-image: url(sitesprite.png);
+  background-position: -795px -286px;
+  width: 23px;
+  height: 20px;
+}
+.icon-comments_s {
+  background-image: url(sitesprite.png);
+  background-position: -801px -393px;
+  width: 23px;
+  height: 20px;
+}
+.icon-fb_n {
+  background-image: url(sitesprite.png);
+  background-position: -215px -592px;
+  width: 50px;
+  height: 50px;
+}
+.icon-fb_s {
+  background-image: url(sitesprite.png);
+  background-position: -733px -532px;
+  width: 50px;
+  height: 50px;
+}
+.icon-hp-blog {
+  background-image: url(sitesprite.png);
+  background-position: -475px -372px;
+  width: 127px;
+  height: 109px;
+}
+.icon-hp-book {
+  background-image: url(sitesprite.png);
+  background-position: -365px -532px;
+  width: 71px;
+  height: 58px;
+}
+.icon-hp-chat {
+  background-image: url(sitesprite.png);
+  background-position: -617px -532px;
+  width: 58px;
+  height: 58px;
+}
+.icon-hp-close {
+  background-image: url(sitesprite.png);
+  background-position: -559px -532px;
+  width: 58px;
+  height: 58px;
+}
+.icon-hp-monitor {
+  background-image: url(sitesprite.png);
+  background-position: -436px -532px;
+  width: 65px;
+  height: 58px;
+}
+.icon-healthlink_footer_emails {
+  background-image: url(sitesprite.png);
+  background-position: -711px -481px;
+  width: 37px;
+  height: 47px;
+}
+.icon-kw-footer-logo {
+  background-image: url(sitesprite.png);
+  background-position: -758px -206px;
+  width: 62px;
+  height: 80px;
+}
+.icon-kw-logo {
+  background-image: url(sitesprite.png);
+  background-position: -475px -206px;
+  width: 156px;
+  height: 166px;
+}
+.icon-kw_n {
+  background-image: url(sitesprite.png);
+  background-position: -631px -315px;
+  width: 50px;
+  height: 50px;
+}
+.icon-kw_s {
+  background-image: url(sitesprite.png);
+  background-position: -265px -592px;
+  width: 50px;
+  height: 50px;
+}
+.icon-mail-leaf {
+  background-image: url(sitesprite.png);
+  background-position: -711px -372px;
+  width: 90px;
+  height: 69px;
+}
+.icon-nav-arrow-left_n {
+  background-image: url(sitesprite.png);
+  background-position: -785px -481px;
+  width: 37px;
+  height: 20px;
+}
+.icon-nav-arrow-left_s {
+  background-image: url(sitesprite.png);
+  background-position: -748px -501px;
+  width: 37px;
+  height: 20px;
+}
+.icon-nav-arrow-right_n {
+  background-image: url(sitesprite.png);
+  background-position: -758px -286px;
+  width: 37px;
+  height: 20px;
+}
+.icon-nav-arrow-right_s {
+  background-image: url(sitesprite.png);
+  background-position: -748px -481px;
+  width: 37px;
+  height: 20px;
+}
+.icon-ok_n {
+  background-image: url(sitesprite.png);
+  background-position: -804px -552px;
+  width: 21px;
+  height: 17px;
+}
+.icon-ok_s {
+  background-image: url(sitesprite.png);
+  background-position: -783px -552px;
+  width: 21px;
+  height: 17px;
+}
+.icon-play_n {
+  background-image: url(sitesprite.png);
+  background-position: -675px -532px;
+  width: 58px;
+  height: 58px;
+}
+.icon-play_s {
+  background-image: url(sitesprite.png);
+  background-position: -501px -532px;
+  width: 58px;
+  height: 58px;
+}
+.icon-popular {
+  background-image: url(sitesprite.png);
+  background-position: -711px -441px;
+  width: 50px;
+  height: 38px;
+}
+.icon-s-menu-close {
+  background-image: url(sitesprite.png);
+  background-position: -806px -501px;
+  width: 19px;
+  height: 19px;
+}
+.icon-s-menu-hamburger {
+  background-image: url(sitesprite.png);
+  background-position: -801px -372px;
+  width: 25px;
+  height: 21px;
+}
+.icon-share_n {
+  background-image: url(sitesprite.png);
+  background-position: -802px -532px;
+  width: 19px;
+  height: 20px;
+}
+.icon-share_s {
+  background-image: url(sitesprite.png);
+  background-position: -783px -532px;
+  width: 19px;
+  height: 20px;
+}
+.icon-sn-community {
+  background-image: url(sitesprite.png);
+  background-position: -120px -532px;
+  width: 95px;
+  height: 110px;
+}
+.icon-sn-education {
+  background-image: url(sitesprite.png);
+  background-position: -631px -206px;
+  width: 127px;
+  height: 109px;
+}
+.icon-sn-measurement {
+  background-image: url(sitesprite.png);
+  background-position: -602px -372px;
+  width: 109px;
+  height: 109px;
+}
+.icon-sn-promo {
+  background-image: url(sitesprite.png);
+  background-position: 0px -532px;
+  width: 120px;
+  height: 111px;
+}
+.icon-tag {
+  background-image: url(sitesprite.png);
+  background-position: -785px -501px;
+  width: 21px;
+  height: 19px;
+}
+.icon-text_play_watch {
+  background-image: url(sitesprite.png);
+  background-position: -475px 0px;
+  width: 356px;
+  height: 206px;
+}
+.icon-tw_n {
+  background-image: url(sitesprite.png);
+  background-position: -731px -315px;
+  width: 50px;
+  height: 50px;
+}
+.icon-tw_s {
+  background-image: url(sitesprite.png);
+  background-position: -315px -592px;
+  width: 50px;
+  height: 50px;
+}
+.icon-с-discuss {
+  background-image: url(sitesprite.png);
+  background-position: 0px -643px;
+  width: 57px;
+  height: 59px;
+}
+.icon-с-magnifier {
+  background-image: url(sitesprite.png);
+  background-position: -215px -532px;
+  width: 76px;
+  height: 60px;
+}
+.icon-с-understand {
+  background-image: url(sitesprite.png);
+  background-position: -291px -532px;
+  width: 74px;
+  height: 60px;
+}
